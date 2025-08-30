@@ -1,6 +1,6 @@
 ## Lab 01
 
-- Name: Thi Viet Ha Nguyễn
+- Name: Thi Viet Ha Nguyen
 - Email: nguyen.378@wright.edu
 
 ## Part 1 - GitHub Profile
