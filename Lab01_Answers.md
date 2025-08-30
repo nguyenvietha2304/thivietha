@@ -19,7 +19,7 @@
 | New-Item | touch      | Create empty file       |
 | Move-Item | mv        | Move/rename file        |
 | Copy-Item | cp        | Copy file               |
-| Remove-Item | rm      | Delete file.            |
+| Remove-Item | rm      | Delete file             |
 | notepad.exe | vim     | Open text editor        |
 
 ## Part 3 - Command Line Navigation
